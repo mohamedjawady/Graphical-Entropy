@@ -8,8 +8,6 @@ Graphical Entropy is a Windows application that calculates the entropy of files 
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
@@ -39,7 +37,7 @@ This is a simple project, which will be extended to support fuzzy hashing for bi
    ```
 2. Open the project in Visual Studio and build the solution.
 
-### Usage
+## Usage
 1. Run the Graphical Entropy application.
 2. Drag and drop a file onto the application window.
 3. Explore the details, including file path, size, type, and format.
